@@ -1,0 +1,18 @@
+variable3       31424
+testflag
+
+
+wub
+    wubflag
+    wub1        "asjdflk93428fdacxv#@$!^%*$"
+    wub2            3.23412
+dub
+    dubtest     asdfkjlkasdf
+    dub1        "@$#(*DASF"
+    dub2        324891
+
+
+
+    dub4	345
+variable1 sadf
+variable2 erwuo

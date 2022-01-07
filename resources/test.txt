@@ -1,0 +1,10 @@
+window
+	mode		0
+	height		800
+	width		800
+
+skin
+	path		"resources"
+
+mods
+
